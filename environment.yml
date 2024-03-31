@@ -1,0 +1,14 @@
+name: musicanalysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scipy
+  - wordcloud
+  - scikit-learn
