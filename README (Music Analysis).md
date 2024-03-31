@@ -4,6 +4,14 @@
 ## Overview
 This project delves into the 'Top 10000 Songs on Spotify from 1960 to 2023', providing a comprehensive analysis of musical trends, popularity, and evolution over time. Through data cleaning, exploratory data analysis (EDA), and machine learning, insights into the temporal evolution of music listening on Spotify — including analysis of tracks, albums, artists, labels, and genres — are unveiled. Predictive modeling of song popularity and a recommendation system based on musical features are also covered.
 
+## Visualizations
+
+For an interactive exploration of the project's findings, visit the Tableau Public dashboard at the following link:
+[Interactive Music Analysis on Tableau Public](https://public.tableau.com/views/MusicAnalysis_17077501449520/DBTracksD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+This dashboard complements the analysis, offering a dynamic way to engage with the data.
+
+
 ## Installation
 To get started, clone this repository to your local machine. Ensure you have Anaconda installed, then import the musicanalysis environment from the provided environment.yml file by running:
 conda env create -f environment.yml
