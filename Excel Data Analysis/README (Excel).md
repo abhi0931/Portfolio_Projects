@@ -31,7 +31,7 @@ This project is intended for portfolio showcase purposes only. The datasets are 
 
 ## Acknowledgments
 - Dataset source: [Montgomery County Government's Fleet Equipment Inventory](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data)
-- Course: "Excel Basics for Data Analysis"(https://www.coursera.org/learn/excel-basics-data-analysis-ibm) by IBM, available on Coursera.
+- Course: ["Excel Basics for Data Analysis"](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) by IBM, available on Coursera.
 
 ## Note
 The analysis and files presented in this project are for educational and portfolio showcase purposes only. They demonstrate skills acquired in data cleaning, preparation, and analysis using Excel and are not intended for commercial use or distribution.
