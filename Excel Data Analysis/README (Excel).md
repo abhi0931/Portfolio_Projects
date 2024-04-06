@@ -27,8 +27,8 @@ This project demonstrates my data cleaning, preparation, and analysis skills usi
 This project is intended for portfolio showcase purposes only. The datasets are modified versions of the public domain data from Montgomery County Government's Fleet Equipment Inventory. Please ensure any use of these files respects the original source's licensing terms and the educational context in which they were used.
 
 ## Acknowledgements
-- Dataset source: [Montgomery County Government's Fleet Equipment Inventory](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data)
-- Course: ["Excel Basics for Data Analysis"](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) by IBM, available on Coursera.
+- Dataset source: [Montgomery County Government's Fleet Equipment Inventory](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data).
+- Course: [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) by IBM, available on Coursera.
 
 ## Note
 The analysis and files presented in this project are for educational and portfolio showcase purposes only. They demonstrate skills acquired in data cleaning, preparation, and analysis using Excel and are not intended for commercial use or distribution.
