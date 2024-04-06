@@ -23,6 +23,8 @@ This project demonstrates my data cleaning, preparation, and analysis skills usi
 - Formatted the data as a table and used AutoSum for basic statistics.
 - Created pivot tables to analyze equipment count by department.
 - Sorted pivot table data and manipulated fields to analyze data from different perspectives.
+- Created visualizations to analyze data visually.
+
 
 ## Usage and Redistribution
 This project is intended for portfolio showcase purposes only. The datasets are modified versions of the public domain data from Montgomery County Government's Fleet Equipment Inventory. Please ensure any use of these files respects the original source's licensing terms and the educational context in which they were used.
