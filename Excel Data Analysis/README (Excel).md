@@ -6,7 +6,7 @@ This project demonstrates my data cleaning, preparation, and analysis skills usi
 ## Files Description
 - `Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv`: The original raw dataset used for Part 1 of the final assignment.
 - `Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx`: The cleaned and prepared dataset resulting from Part 1 of the final assignment.
-- `Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx`: The starting point dataset for Part 2 of the final assignment, after initial cleaning.
+- `Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx`: The starting point dataset for Part 2 of the final assignment.
 - `Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END (Analysed).xlsx`: The final dataset with pivot table analysis completed as per Part 2 of the final assignment.
 
 ## Project Tasks
@@ -19,7 +19,7 @@ This project demonstrates my data cleaning, preparation, and analysis skills usi
 
 ### Part 2: Data Analysis with Pivot Tables
 - Formatted the data as a table and used AutoSum for basic statistics.
-- Created pivot tables to analyse equipment count by department.
+- Created pivot tables to analyse equipment count by department and class.
 - Sorted pivot table data and manipulated fields to analyse data from different perspectives.
 - Created visualisations to analyse data visually.
 
