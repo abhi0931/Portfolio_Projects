@@ -1,0 +1,20 @@
+name: dataanalysis
+channels:
+  - defaults
+  - conda-forge
+  - microsoft
+dependencies:
+  - python=3.12.3
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scipy
+  - wordcloud
+  - scikit-learn>=1.6.1
+  - nbconvert[webpdf]
+  - playwright
+  - openpyxl
+  - ydata-profiling
+  - ipywidgets
